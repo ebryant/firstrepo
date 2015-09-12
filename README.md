@@ -2,7 +2,7 @@
 
 #### Two Article Recommendations:
 
-I stumbled upon these NPR articles recently that I thought were both interesting and relevent to our class. They relate to topics of diversity and privelege in education and are worth a read.
+I stumbled upon these NPR articles recently that I thought were both interesting and relevent to our class. They relate to topics of diversity and privilege in education and are worth a read.
 
 1. [Why Are Colleges Really Going Test-Optional?][Link 1]
 [Link 1]: http://www.npr.org/sections/ed/2015/09/03/436584244/why-are-colleges-really-going-test-optional
