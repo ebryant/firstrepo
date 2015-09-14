@@ -1,0 +1,2 @@
+#Comments
+I am enjoying this course a lot so far. I feel that I've learned a decent amount (especially with git) and I'm excited to continue to develop my skills. I'm hoping we take some more time to get to know each other, as the class is small but I still don't know most of my fellow classmates names. 
